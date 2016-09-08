@@ -1,5 +1,5 @@
 module LibBZ2
 
-# package code goes here
+include("lowlevel.jl")
 
 end # module
